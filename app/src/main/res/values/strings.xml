@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MoreViewsApp</string>
+    <string name="hint">Type in the sporting activity</string>
+    <string name="submitted_sports">Submitted language:</string>
+    <string name="checked">Checked</string>
+    <string name="unchecked">Unchecked</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="sports">Sports club</string>
+    <string-array name="Sports">
+        <item>Football</item>
+        <item>BasketBall</item>
+        <item>Volleyball</item>
+        <item>Netball</item>
+        <item>Cricket</item>
+        <item>Tennis</item>
+        <item>Wresting</item>
+        <item>Swimming</item>
+
+    </string-array>
+
+    <string name="selected_item">Selected Country:</string>
+    <string-array name="country">
+        <item>Malawi</item>
+        <item>United Kingdom</item>
+        <item>Kenya</item>
+        <item>France</item>
+        <item>South Africa</item>
+        <item>Germany</item>
+        <item>Brazil</item>
+        <item>USA</item>
+
+    </string-array>
+
+
+    <string name="selected_list">Selected item:</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+
+
+</resources>

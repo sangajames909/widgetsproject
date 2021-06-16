@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Widgets">
+    <menu>
+    <item
+        android:title="Horizontal Scroll View"
+        android:id="@+id/nav_holizontal"
+        android:icon="@drawable/horizontal"/>
+    <item
+        android:title="Radio Button"
+        android:id="@+id/nav_btn"
+        android:icon="@drawable/radio"/>
+    <item
+        android:title="Tab Layout"
+        android:id="@+id/nav_tabLayout"
+        android:icon="@drawable/domain"/>
+    <item
+        android:title="Progress Bar"
+        android:icon="@drawable/downloading"
+        android:id="@+id/nav_bar"/>
+    <item
+        android:title="Rating Bar"
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/star_rate"/>
+    <item
+        android:title="Seek Bar"
+        android:id="@+id/nav_seek"
+        android:icon="@drawable/file_upload"/>
+    <item
+        android:title="Spinner"
+        android:id="@+id/nav_spinner"
+        android:icon="@drawable/drop_down_circle"/>
+    <item
+        android:title="Dynamic Spinner"
+        android:id="@+id/nav_dynamic"
+        android:icon="@drawable/dynamic"/>
+    <item
+        android:title="Time Picker"
+        android:id="@+id/nav_time"
+        android:icon="@drawable/time"/>
+     <item
+         android:title="List View"
+         android:id="@+id/nav_list"
+         android:icon="@drawable/list"/>
+        <item
+            android:title="Custom ArrayAdapter"
+            android:id="@+id/nav_array"
+            android:icon="@drawable/list"/>
+</menu>
+
+</item>
+
+</menu>

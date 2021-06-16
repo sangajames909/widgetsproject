@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.moreviewsapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/applogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MoreViewsApp">
+        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".ListViewActivity" />
+        <activity android:name=".TimePicker" />
+        <activity android:name=".DynamicSpinner" />
+        <activity android:name=".Spinner" />
+        <activity android:name=".SeekBar" />
+        <activity android:name=".RatingBar" />
+        <activity android:name=".ProgressBar" />
+        <activity android:name=".TabLayout" />
+        <activity android:name=".NavigationDrawerActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RadioButton" />
+        <activity android:name=".HorizontalScrollView" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
